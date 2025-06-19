@@ -113,7 +113,7 @@ def main():
 
     agent_executor = create_react_agent(model, tools)
 
-    print("Welcome! I’m your assistant.")
+    print("Welcome! I’am your personal assistant.")
     print("You can ask me anything, or type 'quit' to exit.")
 
     while True:
